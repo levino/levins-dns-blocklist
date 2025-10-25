@@ -13,372 +13,372 @@
 # ============================================================
 
 # Top news portals
-||bild.de^$ctag=~user_regular
-||t-online.de^$ctag=~user_regular
-||n-tv.de^$ctag=~user_regular
-||welt.de^$ctag=~user_regular
-||tagesschau.de^$ctag=~user_regular
-||spiegel.de^$ctag=~user_regular
-||focus.de^$ctag=~user_regular
-||stern.de^$ctag=~user_regular
-||zeit.de^$ctag=~user_regular
-||faz.net^$ctag=~user_regular
-||sueddeutsche.de^$ctag=~user_regular
-||tagesspiegel.de^$ctag=~user_regular
-||handelsblatt.com^$ctag=~user_regular
-||wiwo.de^$ctag=~user_regular
+||bild.de^$ctag=user_child
+||t-online.de^$ctag=user_child
+||n-tv.de^$ctag=user_child
+||welt.de^$ctag=user_child
+||tagesschau.de^$ctag=user_child
+||spiegel.de^$ctag=user_child
+||focus.de^$ctag=user_child
+||stern.de^$ctag=user_child
+||zeit.de^$ctag=user_child
+||faz.net^$ctag=user_child
+||sueddeutsche.de^$ctag=user_child
+||tagesspiegel.de^$ctag=user_child
+||handelsblatt.com^$ctag=user_child
+||wiwo.de^$ctag=user_child
 
 # ============================================================
 # NATIONAL NEWSPAPERS (BROADSHEET)
 # ============================================================
 
-||faz.net^$ctag=~user_regular
-||sueddeutsche.de^$ctag=~user_regular
-||welt.de^$ctag=~user_regular
-||zeit.de^$ctag=~user_regular
-||fr.de^$ctag=~user_regular
-||taz.de^$ctag=~user_regular
-||jungewelt.de^$ctag=~user_regular
-||neues-deutschland.de^$ctag=~user_regular
-||tageszeitung.de^$ctag=~user_regular
+||faz.net^$ctag=user_child
+||sueddeutsche.de^$ctag=user_child
+||welt.de^$ctag=user_child
+||zeit.de^$ctag=user_child
+||fr.de^$ctag=user_child
+||taz.de^$ctag=user_child
+||jungewelt.de^$ctag=user_child
+||neues-deutschland.de^$ctag=user_child
+||tageszeitung.de^$ctag=user_child
 
 # ============================================================
 # NEWS MAGAZINES
 # ============================================================
 
-||spiegel.de^$ctag=~user_regular
-||focus.de^$ctag=~user_regular
-||stern.de^$ctag=~user_regular
-||bunte.de^$ctag=~user_regular
-||capital.de^$ctag=~user_regular
-||cicero.de^$ctag=~user_regular
-||compact-online.de^$ctag=~user_regular
-||wirtschaftswoche.de^$ctag=~user_regular
+||spiegel.de^$ctag=user_child
+||focus.de^$ctag=user_child
+||stern.de^$ctag=user_child
+||bunte.de^$ctag=user_child
+||capital.de^$ctag=user_child
+||cicero.de^$ctag=user_child
+||compact-online.de^$ctag=user_child
+||wirtschaftswoche.de^$ctag=user_child
 
 # ============================================================
 # TABLOIDS & BOULEVARD
 # ============================================================
 
-||bild.de^$ctag=~user_regular
-||express.de^$ctag=~user_regular
-||bz-berlin.de^$ctag=~user_regular
-||tz.de^$ctag=~user_regular
-||abendzeitung-muenchen.de^$ctag=~user_regular
-||mopo.de^$ctag=~user_regular
+||bild.de^$ctag=user_child
+||express.de^$ctag=user_child
+||bz-berlin.de^$ctag=user_child
+||tz.de^$ctag=user_child
+||abendzeitung-muenchen.de^$ctag=user_child
+||mopo.de^$ctag=user_child
 
 # ============================================================
 # PUBLIC TV/RADIO NEWS SITES
 # ============================================================
 
 # ARD (national broadcaster network)
-||tagesschau.de^$ctag=~user_regular
-||ard.de^$ctag=~user_regular
-||daserste.de^$ctag=~user_regular
-||sportschau.de^$ctag=~user_regular
+||tagesschau.de^$ctag=user_child
+||ard.de^$ctag=user_child
+||daserste.de^$ctag=user_child
+||sportschau.de^$ctag=user_child
 
 # ZDF (Second German Television)
-||zdf.de^$ctag=~user_regular
-||heute.de^$ctag=~user_regular
+||zdf.de^$ctag=user_child
+||heute.de^$ctag=user_child
 
 # Regional public broadcasters
-||br.de^$ctag=~user_regular
-||ndr.de^$ctag=~user_regular
-||wdr.de^$ctag=~user_regular
-||swr.de^$ctag=~user_regular
-||hr-online.de^$ctag=~user_regular
-||mdr.de^$ctag=~user_regular
-||rbb-online.de^$ctag=~user_regular
-||sr-online.de^$ctag=~user_regular
-||radiobremen.de^$ctag=~user_regular
+||br.de^$ctag=user_child
+||ndr.de^$ctag=user_child
+||wdr.de^$ctag=user_child
+||swr.de^$ctag=user_child
+||hr-online.de^$ctag=user_child
+||mdr.de^$ctag=user_child
+||rbb-online.de^$ctag=user_child
+||sr-online.de^$ctag=user_child
+||radiobremen.de^$ctag=user_child
 
 # Deutsche Welle (international broadcaster)
-||dw.com^$ctag=~user_regular
+||dw.com^$ctag=user_child
 
 # ============================================================
 # PRIVATE TV NEWS
 # ============================================================
 
-||rtl.de^$ctag=~user_regular
-||n-tv.de^$ctag=~user_regular
-||sat1.de^$ctag=~user_regular
-||prosieben.de^$ctag=~user_regular
-||vox.de^$ctag=~user_regular
-||ntv.de^$ctag=~user_regular
+||rtl.de^$ctag=user_child
+||n-tv.de^$ctag=user_child
+||sat1.de^$ctag=user_child
+||prosieben.de^$ctag=user_child
+||vox.de^$ctag=user_child
+||ntv.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - BAYERN (BAVARIA)
 # ============================================================
 
-||merkur.de^$ctag=~user_regular
-||muenchner-merkur.de^$ctag=~user_regular
-||tz.de^$ctag=~user_regular
-||abendzeitung-muenchen.de^$ctag=~user_regular
-||augsburger-allgemeine.de^$ctag=~user_regular
-||mainpost.de^$ctag=~user_regular
-||infranken.de^$ctag=~user_regular
-||mittelbayerische.de^$ctag=~user_regular
-||pnp.de^$ctag=~user_regular
-||donaukurier.de^$ctag=~user_regular
-||nordbayern.de^$ctag=~user_regular
-||np-coburg.de^$ctag=~user_regular
-||ovb-online.de^$ctag=~user_regular
-||idowa.de^$ctag=~user_regular
+||merkur.de^$ctag=user_child
+||muenchner-merkur.de^$ctag=user_child
+||tz.de^$ctag=user_child
+||abendzeitung-muenchen.de^$ctag=user_child
+||augsburger-allgemeine.de^$ctag=user_child
+||mainpost.de^$ctag=user_child
+||infranken.de^$ctag=user_child
+||mittelbayerische.de^$ctag=user_child
+||pnp.de^$ctag=user_child
+||donaukurier.de^$ctag=user_child
+||nordbayern.de^$ctag=user_child
+||np-coburg.de^$ctag=user_child
+||ovb-online.de^$ctag=user_child
+||idowa.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - NORDRHEIN-WESTFALEN (NRW)
 # ============================================================
 
-||rp-online.de^$ctag=~user_regular
-||waz.de^$ctag=~user_regular
-||wr.de^$ctag=~user_regular
-||nrz.de^$ctag=~user_regular
-||ikz-online.de^$ctag=~user_regular
-||derwesten.de^$ctag=~user_regular
-||express.de^$ctag=~user_regular
-||ksta.de^$ctag=~user_regular
-||rundschau-online.de^$ctag=~user_regular
-||aachener-zeitung.de^$ctag=~user_regular
-||aachener-nachrichten.de^$ctag=~user_regular
-||wa.de^$ctag=~user_regular
-||come-on.de^$ctag=~user_regular
-||muensterschezeitung.de^$ctag=~user_regular
-||westfalen-blatt.de^$ctag=~user_regular
-||nw.de^$ctag=~user_regular
-||wp.de^$ctag=~user_regular
+||rp-online.de^$ctag=user_child
+||waz.de^$ctag=user_child
+||wr.de^$ctag=user_child
+||nrz.de^$ctag=user_child
+||ikz-online.de^$ctag=user_child
+||derwesten.de^$ctag=user_child
+||express.de^$ctag=user_child
+||ksta.de^$ctag=user_child
+||rundschau-online.de^$ctag=user_child
+||aachener-zeitung.de^$ctag=user_child
+||aachener-nachrichten.de^$ctag=user_child
+||wa.de^$ctag=user_child
+||come-on.de^$ctag=user_child
+||muensterschezeitung.de^$ctag=user_child
+||westfalen-blatt.de^$ctag=user_child
+||nw.de^$ctag=user_child
+||wp.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - BADEN-WÜRTTEMBERG
 # ============================================================
 
-||stuttgarter-zeitung.de^$ctag=~user_regular
-||stuttgarter-nachrichten.de^$ctag=~user_regular
-||swp.de^$ctag=~user_regular
-||szon.de^$ctag=~user_regular
-||schwaebische.de^$ctag=~user_regular
-||suedkurier.de^$ctag=~user_regular
-||bo.de^$ctag=~user_regular
-||stimme.de^$ctag=~user_regular
-||schwaebische-post.de^$ctag=~user_regular
-||gea.de^$ctag=~user_regular
-||schwarzwaelder-bote.de^$ctag=~user_regular
-||nwzonline.de^$ctag=~user_regular
-||ka-news.de^$ctag=~user_regular
-||heidelberg24.de^$ctag=~user_regular
-||mannheim24.de^$ctag=~user_regular
+||stuttgarter-zeitung.de^$ctag=user_child
+||stuttgarter-nachrichten.de^$ctag=user_child
+||swp.de^$ctag=user_child
+||szon.de^$ctag=user_child
+||schwaebische.de^$ctag=user_child
+||suedkurier.de^$ctag=user_child
+||bo.de^$ctag=user_child
+||stimme.de^$ctag=user_child
+||schwaebische-post.de^$ctag=user_child
+||gea.de^$ctag=user_child
+||schwarzwaelder-bote.de^$ctag=user_child
+||nwzonline.de^$ctag=user_child
+||ka-news.de^$ctag=user_child
+||heidelberg24.de^$ctag=user_child
+||mannheim24.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - NIEDERSACHSEN (LOWER SAXONY)
 # ============================================================
 
-||haz.de^$ctag=~user_regular
-||neuepresse.de^$ctag=~user_regular
-||paz-online.de^$ctag=~user_regular
-||kreiszeitung.de^$ctag=~user_regular
-||noz.de^$ctag=~user_regular
-||nwzonline.de^$ctag=~user_regular
-||braunschweiger-zeitung.de^$ctag=~user_regular
-||wolfsburger-nachrichten.de^$ctag=~user_regular
-||goettinger-tageblatt.de^$ctag=~user_regular
-||hk-online.de^$ctag=~user_regular
-||landeszeitung.de^$ctag=~user_regular
-||cellesche-zeitung.de^$ctag=~user_regular
+||haz.de^$ctag=user_child
+||neuepresse.de^$ctag=user_child
+||paz-online.de^$ctag=user_child
+||kreiszeitung.de^$ctag=user_child
+||noz.de^$ctag=user_child
+||nwzonline.de^$ctag=user_child
+||braunschweiger-zeitung.de^$ctag=user_child
+||wolfsburger-nachrichten.de^$ctag=user_child
+||goettinger-tageblatt.de^$ctag=user_child
+||hk-online.de^$ctag=user_child
+||landeszeitung.de^$ctag=user_child
+||cellesche-zeitung.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - HESSEN
 # ============================================================
 
-||fnp.de^$ctag=~user_regular
-||faz.net^$ctag=~user_regular
-||fr.de^$ctag=~user_regular
-||op-online.de^$ctag=~user_regular
-||giessener-allgemeine.de^$ctag=~user_regular
-||giessener-anzeiger.de^$ctag=~user_regular
-||osthessen-news.de^$ctag=~user_regular
-||wetterauer-zeitung.de^$ctag=~user_regular
-||fuldaerzeitung.de^$ctag=~user_regular
-||hessenschau.de^$ctag=~user_regular
-||hit-radio-ffh.de^$ctag=~user_regular
+||fnp.de^$ctag=user_child
+||faz.net^$ctag=user_child
+||fr.de^$ctag=user_child
+||op-online.de^$ctag=user_child
+||giessener-allgemeine.de^$ctag=user_child
+||giessener-anzeiger.de^$ctag=user_child
+||osthessen-news.de^$ctag=user_child
+||wetterauer-zeitung.de^$ctag=user_child
+||fuldaerzeitung.de^$ctag=user_child
+||hessenschau.de^$ctag=user_child
+||hit-radio-ffh.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - BERLIN & BRANDENBURG
 # ============================================================
 
-||tagesspiegel.de^$ctag=~user_regular
-||berliner-zeitung.de^$ctag=~user_regular
-||morgenpost.de^$ctag=~user_regular
-||bz-berlin.de^$ctag=~user_regular
-||berliner-morgenpost.de^$ctag=~user_regular
-||maz-online.de^$ctag=~user_regular
-||pnn.de^$ctag=~user_regular
-||lr-online.de^$ctag=~user_regular
-||rbb24.de^$ctag=~user_regular
+||tagesspiegel.de^$ctag=user_child
+||berliner-zeitung.de^$ctag=user_child
+||morgenpost.de^$ctag=user_child
+||bz-berlin.de^$ctag=user_child
+||berliner-morgenpost.de^$ctag=user_child
+||maz-online.de^$ctag=user_child
+||pnn.de^$ctag=user_child
+||lr-online.de^$ctag=user_child
+||rbb24.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - HAMBURG
 # ============================================================
 
-||abendblatt.de^$ctag=~user_regular
-||mopo.de^$ctag=~user_regular
-||ndr.de^$ctag=~user_regular
-||shz.de^$ctag=~user_regular
+||abendblatt.de^$ctag=user_child
+||mopo.de^$ctag=user_child
+||ndr.de^$ctag=user_child
+||shz.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - SACHSEN (SAXONY)
 # ============================================================
 
-||saechsische.de^$ctag=~user_regular
-||lvz.de^$ctag=~user_regular
-||freiepresse.de^$ctag=~user_regular
-||tag24.de^$ctag=~user_regular
-||mdr.de^$ctag=~user_regular
-||sz-online.de^$ctag=~user_regular
+||saechsische.de^$ctag=user_child
+||lvz.de^$ctag=user_child
+||freiepresse.de^$ctag=user_child
+||tag24.de^$ctag=user_child
+||mdr.de^$ctag=user_child
+||sz-online.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - SCHLESWIG-HOLSTEIN
 # ============================================================
 
-||shz.de^$ctag=~user_regular
-||kn-online.de^$ctag=~user_regular
-||ln-online.de^$ctag=~user_regular
-||ndr.de^$ctag=~user_regular
+||shz.de^$ctag=user_child
+||kn-online.de^$ctag=user_child
+||ln-online.de^$ctag=user_child
+||ndr.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - RHEINLAND-PFALZ
 # ============================================================
 
-||rheinpfalz.de^$ctag=~user_regular
-||allgemeine-zeitung.de^$ctag=~user_regular
-||rhein-zeitung.de^$ctag=~user_regular
-||volksfreund.de^$ctag=~user_regular
-||swr.de^$ctag=~user_regular
+||rheinpfalz.de^$ctag=user_child
+||allgemeine-zeitung.de^$ctag=user_child
+||rhein-zeitung.de^$ctag=user_child
+||volksfreund.de^$ctag=user_child
+||swr.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - SAARLAND
 # ============================================================
 
-||saarbruecker-zeitung.de^$ctag=~user_regular
-||sol.de^$ctag=~user_regular
-||sr.de^$ctag=~user_regular
+||saarbruecker-zeitung.de^$ctag=user_child
+||sol.de^$ctag=user_child
+||sr.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - THÜRINGEN (THURINGIA)
 # ============================================================
 
-||thueringer-allgemeine.de^$ctag=~user_regular
-||tlz.de^$ctag=~user_regular
-||otz.de^$ctag=~user_regular
-||mdr.de^$ctag=~user_regular
+||thueringer-allgemeine.de^$ctag=user_child
+||tlz.de^$ctag=user_child
+||otz.de^$ctag=user_child
+||mdr.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - MECKLENBURG-VORPOMMERN
 # ============================================================
 
-||ostsee-zeitung.de^$ctag=~user_regular
-||svz.de^$ctag=~user_regular
-||nordkurier.de^$ctag=~user_regular
-||ndr.de^$ctag=~user_regular
+||ostsee-zeitung.de^$ctag=user_child
+||svz.de^$ctag=user_child
+||nordkurier.de^$ctag=user_child
+||ndr.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - SACHSEN-ANHALT
 # ============================================================
 
-||volksstimme.de^$ctag=~user_regular
-||mz.de^$ctag=~user_regular
-||mdr.de^$ctag=~user_regular
+||volksstimme.de^$ctag=user_child
+||mz.de^$ctag=user_child
+||mdr.de^$ctag=user_child
 
 # ============================================================
 # REGIONAL NEWSPAPERS - BREMEN
 # ============================================================
 
-||weser-kurier.de^$ctag=~user_regular
-||kreiszeitung.de^$ctag=~user_regular
-||radiobremen.de^$ctag=~user_regular
+||weser-kurier.de^$ctag=user_child
+||kreiszeitung.de^$ctag=user_child
+||radiobremen.de^$ctag=user_child
 
 # ============================================================
 # BUSINESS NEWS
 # ============================================================
 
-||handelsblatt.com^$ctag=~user_regular
-||wiwo.de^$ctag=~user_regular
-||manager-magazin.de^$ctag=~user_regular
-||capital.de^$ctag=~user_regular
-||boerse.de^$ctag=~user_regular
-||finanzen.net^$ctag=~user_regular
-||wallstreet-online.de^$ctag=~user_regular
-||boerse-online.de^$ctag=~user_regular
-||focus.de^$ctag=~user_regular
+||handelsblatt.com^$ctag=user_child
+||wiwo.de^$ctag=user_child
+||manager-magazin.de^$ctag=user_child
+||capital.de^$ctag=user_child
+||boerse.de^$ctag=user_child
+||finanzen.net^$ctag=user_child
+||wallstreet-online.de^$ctag=user_child
+||boerse-online.de^$ctag=user_child
+||focus.de^$ctag=user_child
 
 # ============================================================
 # SPORTS NEWS
 # ============================================================
 
-||kicker.de^$ctag=~user_regular
-||sport1.de^$ctag=~user_regular
-||sportschau.de^$ctag=~user_regular
-||spox.com^$ctag=~user_regular
-||ran.de^$ctag=~user_regular
-||sport.de^$ctag=~user_regular
-||transfermarkt.de^$ctag=~user_regular
-||fussball.de^$ctag=~user_regular
-||11freunde.de^$ctag=~user_regular
+||kicker.de^$ctag=user_child
+||sport1.de^$ctag=user_child
+||sportschau.de^$ctag=user_child
+||spox.com^$ctag=user_child
+||ran.de^$ctag=user_child
+||sport.de^$ctag=user_child
+||transfermarkt.de^$ctag=user_child
+||fussball.de^$ctag=user_child
+||11freunde.de^$ctag=user_child
 
 # ============================================================
 # ONLINE NEWS PORTALS
 # ============================================================
 
-||t-online.de^$ctag=~user_regular
-||gmx.net^$ctag=~user_regular
-||web.de^$ctag=~user_regular
-||yahoo.de^$ctag=~user_regular
-||msn.com^$ctag=~user_regular
-||aol.de^$ctag=~user_regular
+||t-online.de^$ctag=user_child
+||gmx.net^$ctag=user_child
+||web.de^$ctag=user_child
+||yahoo.de^$ctag=user_child
+||msn.com^$ctag=user_child
+||aol.de^$ctag=user_child
 
 # ============================================================
 # NEWS AGGREGATORS
 # ============================================================
 
-||news.google.de^$ctag=~user_regular
-||nachrichtenheute.de^$ctag=~user_regular
-||newstral.com^$ctag=~user_regular
-||rivva.de^$ctag=~user_regular
+||news.google.de^$ctag=user_child
+||nachrichtenheute.de^$ctag=user_child
+||newstral.com^$ctag=user_child
+||rivva.de^$ctag=user_child
 
 # ============================================================
 # ALTERNATIVE/INDEPENDENT NEWS
 # ============================================================
 
-||heise.de^$ctag=~user_regular
-||telepolis.de^$ctag=~user_regular
-||netzpolitik.org^$ctag=~user_regular
-||correctiv.org^$ctag=~user_regular
-||krautreporter.de^$ctag=~user_regular
-||perspective-daily.de^$ctag=~user_regular
+||heise.de^$ctag=user_child
+||telepolis.de^$ctag=user_child
+||netzpolitik.org^$ctag=user_child
+||correctiv.org^$ctag=user_child
+||krautreporter.de^$ctag=user_child
+||perspective-daily.de^$ctag=user_child
 
 # ============================================================
 # INTERNATIONAL NEWS (German versions)
 # ============================================================
 
-||bbc.com^$ctag=~user_regular
-||cnn.de^$ctag=~user_regular
-||reuters.com^$ctag=~user_regular
-||euronews.com^$ctag=~user_regular
-||thelocal.de^$ctag=~user_regular
+||bbc.com^$ctag=user_child
+||cnn.de^$ctag=user_child
+||reuters.com^$ctag=user_child
+||euronews.com^$ctag=user_child
+||thelocal.de^$ctag=user_child
 
 # ============================================================
 # MISCELLANEOUS NEWS SITES
 # ============================================================
 
-||meta.tagesschau.de^$ctag=~user_regular
-||tagesschau24.de^$ctag=~user_regular
-||phoenix.de^$ctag=~user_regular
-||3sat.de^$ctag=~user_regular
-||arte.tv^$ctag=~user_regular
-||heute.at^$ctag=~user_regular
-||kurier.at^$ctag=~user_regular
-||derstandard.at^$ctag=~user_regular
-||20min.ch^$ctag=~user_regular
-||blick.ch^$ctag=~user_regular
-||watson.ch^$ctag=~user_regular
-||nzz.ch^$ctag=~user_regular
+||meta.tagesschau.de^$ctag=user_child
+||tagesschau24.de^$ctag=user_child
+||phoenix.de^$ctag=user_child
+||3sat.de^$ctag=user_child
+||arte.tv^$ctag=user_child
+||heute.at^$ctag=user_child
+||kurier.at^$ctag=user_child
+||derstandard.at^$ctag=user_child
+||20min.ch^$ctag=user_child
+||blick.ch^$ctag=user_child
+||watson.ch^$ctag=user_child
+||nzz.ch^$ctag=user_child
 
 # ============================================================
 # END OF LIST

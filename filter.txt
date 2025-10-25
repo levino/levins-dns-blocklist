@@ -1,0 +1,393 @@
+# German News Sites Blocklist
+# Purpose: Block German news websites (national, regional, tabloids, magazines)
+# Format: AdGuard Home DNS blocklist
+# Last updated: 2025-01-29
+# 
+# Usage: Add this file to AdGuard Home under Filters -> DNS blocklists
+# 
+# This list blocks access to German news sites that may contain content
+# about war, crime, and other potentially distressing topics for children.
+
+# ============================================================
+# MAJOR NATIONAL NEWS WEBSITES
+# ============================================================
+
+# Top news portals
+||bild.de^
+||t-online.de^
+||n-tv.de^
+||welt.de^
+||tagesschau.de^
+||spiegel.de^
+||focus.de^
+||stern.de^
+||zeit.de^
+||faz.net^
+||sueddeutsche.de^
+||tagesspiegel.de^
+||handelsblatt.com^
+||wiwo.de^
+
+# ============================================================
+# NATIONAL NEWSPAPERS (BROADSHEET)
+# ============================================================
+
+||faz.net^
+||sueddeutsche.de^
+||welt.de^
+||zeit.de^
+||fr.de^
+||taz.de^
+||jungewelt.de^
+||neues-deutschland.de^
+||tageszeitung.de^
+
+# ============================================================
+# NEWS MAGAZINES
+# ============================================================
+
+||spiegel.de^
+||focus.de^
+||stern.de^
+||bunte.de^
+||capital.de^
+||cicero.de^
+||compact-online.de^
+||wirtschaftswoche.de^
+
+# ============================================================
+# TABLOIDS & BOULEVARD
+# ============================================================
+
+||bild.de^
+||express.de^
+||bz-berlin.de^
+||tz.de^
+||abendzeitung-muenchen.de^
+||mopo.de^
+
+# ============================================================
+# PUBLIC TV/RADIO NEWS SITES
+# ============================================================
+
+# ARD (national broadcaster network)
+||tagesschau.de^
+||ard.de^
+||daserste.de^
+||sportschau.de^
+
+# ZDF (Second German Television)
+||zdf.de^
+||heute.de^
+
+# Regional public broadcasters
+||br.de^
+||ndr.de^
+||wdr.de^
+||swr.de^
+||hr-online.de^
+||mdr.de^
+||rbb-online.de^
+||sr-online.de^
+||radiobremen.de^
+
+# Deutsche Welle (international broadcaster)
+||dw.com^
+
+# ============================================================
+# PRIVATE TV NEWS
+# ============================================================
+
+||rtl.de^
+||n-tv.de^
+||sat1.de^
+||prosieben.de^
+||vox.de^
+||ntv.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - BAYERN (BAVARIA)
+# ============================================================
+
+||merkur.de^
+||muenchner-merkur.de^
+||tz.de^
+||abendzeitung-muenchen.de^
+||augsburger-allgemeine.de^
+||mainpost.de^
+||infranken.de^
+||mittelbayerische.de^
+||pnp.de^
+||donaukurier.de^
+||nordbayern.de^
+||np-coburg.de^
+||ovb-online.de^
+||idowa.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - NORDRHEIN-WESTFALEN (NRW)
+# ============================================================
+
+||rp-online.de^
+||waz.de^
+||wr.de^
+||nrz.de^
+||ikz-online.de^
+||derwesten.de^
+||express.de^
+||ksta.de^
+||rundschau-online.de^
+||aachener-zeitung.de^
+||aachener-nachrichten.de^
+||wa.de^
+||come-on.de^
+||muensterschezeitung.de^
+||westfalen-blatt.de^
+||nw.de^
+||wp.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - BADEN-WÜRTTEMBERG
+# ============================================================
+
+||stuttgarter-zeitung.de^
+||stuttgarter-nachrichten.de^
+||swp.de^
+||szon.de^
+||schwaebische.de^
+||suedkurier.de^
+||bo.de^
+||stimme.de^
+||schwaebische-post.de^
+||gea.de^
+||schwarzwaelder-bote.de^
+||nwzonline.de^
+||ka-news.de^
+||heidelberg24.de^
+||mannheim24.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - NIEDERSACHSEN (LOWER SAXONY)
+# ============================================================
+
+||haz.de^
+||neuepresse.de^
+||paz-online.de^
+||kreiszeitung.de^
+||noz.de^
+||nwzonline.de^
+||braunschweiger-zeitung.de^
+||wolfsburger-nachrichten.de^
+||goettinger-tageblatt.de^
+||hk-online.de^
+||landeszeitung.de^
+||cellesche-zeitung.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - HESSEN
+# ============================================================
+
+||fnp.de^
+||faz.net^
+||fr.de^
+||op-online.de^
+||giessener-allgemeine.de^
+||giessener-anzeiger.de^
+||osthessen-news.de^
+||wetterauer-zeitung.de^
+||fuldaerzeitung.de^
+||hessenschau.de^
+||hit-radio-ffh.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - BERLIN & BRANDENBURG
+# ============================================================
+
+||tagesspiegel.de^
+||berliner-zeitung.de^
+||morgenpost.de^
+||bz-berlin.de^
+||berliner-morgenpost.de^
+||maz-online.de^
+||pnn.de^
+||lr-online.de^
+||rbb24.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - HAMBURG
+# ============================================================
+
+||abendblatt.de^
+||mopo.de^
+||ndr.de^
+||shz.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - SACHSEN (SAXONY)
+# ============================================================
+
+||saechsische.de^
+||lvz.de^
+||freiepresse.de^
+||tag24.de^
+||mdr.de^
+||sz-online.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - SCHLESWIG-HOLSTEIN
+# ============================================================
+
+||shz.de^
+||kn-online.de^
+||ln-online.de^
+||ndr.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - RHEINLAND-PFALZ
+# ============================================================
+
+||rheinpfalz.de^
+||allgemeine-zeitung.de^
+||rhein-zeitung.de^
+||volksfreund.de^
+||swr.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - SAARLAND
+# ============================================================
+
+||saarbruecker-zeitung.de^
+||sol.de^
+||sr.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - THÜRINGEN (THURINGIA)
+# ============================================================
+
+||thueringer-allgemeine.de^
+||tlz.de^
+||otz.de^
+||mdr.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - MECKLENBURG-VORPOMMERN
+# ============================================================
+
+||ostsee-zeitung.de^
+||svz.de^
+||nordkurier.de^
+||ndr.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - SACHSEN-ANHALT
+# ============================================================
+
+||volksstimme.de^
+||mz.de^
+||mdr.de^
+
+# ============================================================
+# REGIONAL NEWSPAPERS - BREMEN
+# ============================================================
+
+||weser-kurier.de^
+||kreiszeitung.de^
+||radiobremen.de^
+
+# ============================================================
+# BUSINESS NEWS
+# ============================================================
+
+||handelsblatt.com^
+||wiwo.de^
+||manager-magazin.de^
+||capital.de^
+||boerse.de^
+||finanzen.net^
+||wallstreet-online.de^
+||boerse-online.de^
+||focus.de^
+
+# ============================================================
+# SPORTS NEWS
+# ============================================================
+
+||kicker.de^
+||sport1.de^
+||sportschau.de^
+||spox.com^
+||ran.de^
+||sport.de^
+||transfermarkt.de^
+||fussball.de^
+||11freunde.de^
+
+# ============================================================
+# ONLINE NEWS PORTALS
+# ============================================================
+
+||t-online.de^
+||gmx.net^
+||web.de^
+||yahoo.de^
+||msn.com^
+||aol.de^
+
+# ============================================================
+# NEWS AGGREGATORS
+# ============================================================
+
+||news.google.de^
+||nachrichtenheute.de^
+||newstral.com^
+||rivva.de^
+
+# ============================================================
+# ALTERNATIVE/INDEPENDENT NEWS
+# ============================================================
+
+||heise.de^
+||telepolis.de^
+||netzpolitik.org^
+||correctiv.org^
+||krautreporter.de^
+||perspective-daily.de^
+
+# ============================================================
+# INTERNATIONAL NEWS (German versions)
+# ============================================================
+
+||bbc.com^
+||cnn.de^
+||reuters.com^
+||euronews.com^
+||thelocal.de^
+
+# ============================================================
+# MISCELLANEOUS NEWS SITES
+# ============================================================
+
+||meta.tagesschau.de^
+||tagesschau24.de^
+||phoenix.de^
+||3sat.de^
+||arte.tv^
+||heute.at^
+||kurier.at^
+||derstandard.at^
+||20min.ch^
+||blick.ch^
+||watson.ch^
+||nzz.ch^
+
+# ============================================================
+# END OF LIST
+# ============================================================
+# 
+# Total domains blocked: ~200+
+# 
+# Note: This list blocks major German news sources. You may need to
+# add or remove domains based on your specific needs.
+# 
+# To update: Edit this file and AdGuard Home will refresh automatically
+# or manually force update in the filters section.

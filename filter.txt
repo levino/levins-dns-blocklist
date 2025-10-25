@@ -9,6 +9,13 @@
 # about war, crime, and other potentially distressing topics for children.
 
 # ============================================================
+# EXCEPTIONS (Whitelisted domains)
+# ============================================================
+
+# Allow access to user-regular domain
+@@||user-regular^
+
+# ============================================================
 # MAJOR NATIONAL NEWS WEBSITES
 # ============================================================
 
